@@ -12,6 +12,8 @@
 
 ![download](https://user-images.githubusercontent.com/111524802/186460614-c822be1e-f5db-49a6-968b-7ed37cdfd82b.png)
 
+![image](https://user-images.githubusercontent.com/111524802/186467815-df4b2b7a-8c16-4a07-ba95-7ec61eb1bc2d.png)
+
         
 2. Realiza un algoritmo y diagrama de flujo de un programa que resuelva el sigueinte problema: Solicitando se ingresen 4 calificaciones, una por periodo, se obtenga el promedio y se imprima una felicitación a quien obtenga un promedio mayor a 6, y se le informe ha reprobado a quien obtenga una calificacion menor a 6.
 
@@ -32,6 +34,7 @@
         13.fin
         
 ![download](https://user-images.githubusercontent.com/111524802/186466871-68da41fc-4542-4f7e-bf2a-a3a4233407b1.png)
+
 
 
 3. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
