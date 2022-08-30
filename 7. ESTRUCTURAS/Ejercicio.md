@@ -67,3 +67,22 @@
   ![download](https://user-images.githubusercontent.com/111524802/187485964-5e408db6-06ba-4cfa-9ec2-9501ee116434.png)
       
 
+
+
+
+
+
+1.INICIO
+2.Declarar num,contador,resultado
+3.contador=1
+4.asignar contador
+ numero=1
+  asignar numero
+5.resultado=0
+6.asignar resultado
+7.PARA(numero<=10)hacer
+	 PARA(contador<=10)resultado=numero*contador
+  		mostrar(numero*contador=resultado)contador=contador + FIN PARA
+	numero=numero+1
+	contador=1
+9.FIN
