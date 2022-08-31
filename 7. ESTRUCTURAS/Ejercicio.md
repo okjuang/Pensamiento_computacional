@@ -86,3 +86,26 @@
 	numero=numero+1
 	contador=1
 9.FIN
+
+
+
+
+
+
+	EJERCICIO algoritmo
+
+		1.INICIO
+		2.declarar nombre,veces,contador
+		3.asignar contador=0
+		4.mostrar "ingresa tu nombre"
+		5.asignar nombre
+		6.mostrar "cuantas veces quieres que se imprima tu nombre?"
+		7.asignar veces
+		8.PARA(contador<-veces)mostrar(nombre)
+			contador=contador+1
+			FIN PARA
+		9.FIN
+
+
+![download](https://user-images.githubusercontent.com/111524802/187728564-5dd02092-8448-4e40-90ca-675b0fa35092.png)
+
