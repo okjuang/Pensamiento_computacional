@@ -84,6 +84,7 @@ mostrar "no es una vocal"
 
 
 
+
 WHILE
 
 
@@ -96,6 +97,13 @@ WHILE
 7.asignar repetir
 8.MIENTRAS repetir=="s" o repetir=="S" mostrar nombre
 9.FIN
+
+
+
+
+![download](https://user-images.githubusercontent.com/111524802/187961008-ac10eafb-b8f7-4af9-b871-23d4caed3574.png)
+
+![image](https://user-images.githubusercontent.com/111524802/187961064-07caa7b2-c235-481a-b627-f30e0e874f16.png)
 
 
 
