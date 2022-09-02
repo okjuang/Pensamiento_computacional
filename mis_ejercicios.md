@@ -124,6 +124,11 @@ fecha de nacimiento
 
 
 
+CALCULADORA
+
+	1.INICIO
+	2.
+
 
 
 
