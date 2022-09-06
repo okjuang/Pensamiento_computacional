@@ -1,3 +1,18 @@
+##Proyecto 2 Adivina numero
+
+	1.INICIO
+	2.declarar numIng(Int),numOculto(Int),contIni(Int)
+	3.asignar numOculto=6
+	4.asignar contIni=5
+	5.SI numIng==numOculto ENTONCES
+		mostrar "Felicidades adivinaste el numero oculto es ,",numOculto
+		SINO 
+
+
+
+
+
+
 
           1.inicio
 2.declarar estatura(float)
