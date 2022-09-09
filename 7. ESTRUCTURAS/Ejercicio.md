@@ -37,55 +37,33 @@
 
 
 
+
+
+
 3. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
 
-        TU ALGORITMO Y DIAGRAMA AQUI
-        
-        
-        
-        
-        
-        
-        
-        EJERCICIOS
-        
-        
+          
        1.INICIO
-       2.Declarar num,contador,resultado
-       3.contador=1
-       4.asignar contador
-       5.resultado=0
-       6.asignar resultado
-       7.mostrar "asignar numero"
-       8.PARA(contador<=10)resultado=numero*contador
-        mostrar(numero*contador=resultado)contador=contador + FIN PARA
-       9.FIN
-
-
-         
+       2.declarar num(int)
+       3.mostrar "ingresa un numero entero"
+       4.asignar num
+       5.SI num/2=int ENTONCES 
+       	mostrar(num,"es numero par")
+       	SINO mostrar (num,"es numero impar")
+       	FIN SINO
+       6.FIN
+	
         
-  ![download](https://user-images.githubusercontent.com/111524802/187485964-5e408db6-06ba-4cfa-9ec2-9501ee116434.png)
+        
+![download](https://user-images.githubusercontent.com/111524802/189269164-d774b0c8-dc7f-4a94-a27c-d6391cfd0440.png)
+        
+        
+       
       
 
 
 
-
-
-
-	1.INICIO
-	2.Declarar num,contador,resultado
-	3.contador=1
-	4.asignar contador
-	5.numero=1
-  	6.asignar numero
-	5.resultado=0
-	6.asignar resultado
-	7.PARA(numero<=10)hacer
-	 PARA(contador<=10)resultado=numero*contador
-  		mostrar(numero*contador=resultado)contador=contador + FIN PARA
-	numero=numero+1
-	contador=1
-        9.FIN
+	
 
 
 
