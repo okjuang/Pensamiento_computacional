@@ -30,7 +30,7 @@
         9.mostrar("ingresa calificacion 4")
         10.asignar cal4
         11.asignar promedio=(cal1+cal2+cal3+cal4)(/4)
-        12.si(promedio>6)entonces mostrar(promedio,"felicidades apobaste")sino mostrar("reprobaste tu calificacion fue menor a 6",promedio)
+        12.si(promedio>6)entonces mostrar(promedio,"felicidades apobaste")sino mostrar("reprobaste tu calificacion fue menor a 		             6",promedio)
         13.fin
         
 ![download](https://user-images.githubusercontent.com/111524802/186466871-68da41fc-4542-4f7e-bf2a-a3a4233407b1.png)
@@ -72,20 +72,20 @@
 
 
 
-1.INICIO
-2.Declarar num,contador,resultado
-3.contador=1
-4.asignar contador
- numero=1
-  asignar numero
-5.resultado=0
-6.asignar resultado
-7.PARA(numero<=10)hacer
+	1.INICIO
+	2.Declarar num,contador,resultado
+	3.contador=1
+	4.asignar contador
+	5.numero=1
+  	6.asignar numero
+	5.resultado=0
+	6.asignar resultado
+	7.PARA(numero<=10)hacer
 	 PARA(contador<=10)resultado=numero*contador
   		mostrar(numero*contador=resultado)contador=contador + FIN PARA
 	numero=numero+1
 	contador=1
-9.FIN
+        9.FIN
 
 
 
