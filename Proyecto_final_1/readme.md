@@ -22,3 +22,26 @@
 
 
 ![image](https://user-images.githubusercontent.com/111524802/188551453-8f2d2793-f605-4a01-a615-18a586d11271.png)
+
+
+
+
+
+
+
+
+# Pseudocodigo
+## Ejercicio 1
+ 
+ ![image](https://user-images.githubusercontent.com/111524802/189751837-854cec2a-6d24-4b6a-ba01-5b7aa00e4e7f.png)
+
+
+
+
+ ## Ejercicio 2
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/111524802/189752030-f24333bc-2e69-4ba0-9586-9039e84719c4.png)
+ 
+ ![download](https://user-images.githubusercontent.com/111524802/189752125-3749fcfa-94d3-4f70-a2d9-545553164fe1.png)
+
